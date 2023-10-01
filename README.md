@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🌱 I’m currently upskilling myself as a **Fullstack Development**
+- 🌱 I’m currently upskilling myself as a **Fullstack Development** and learning **Artificial Intelligence** 🤖
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-orpin-zeta.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-orpin-zeta.vercel.app/](https://portfolio-website-orpin-zeta.vercel.app/))
 
-- 📫 How to reach me **moyezrabbani.work@gmail.com**
+- 📫 How to reach me -> **moyezrabbani.work@gmail.com**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1klePTyYGTeIbKDg6cdZ2bo_pr2obDNRs/view?usp=sharing)
 
@@ -31,8 +31,9 @@
 
 | React  | NextJS      | Typescript  | Javascript |
 |----------|--------------|------------|------------|
-| Tailwind  | MongoDB | Strapi  | Wordpress   | 
-| ExpressJS | HTML     | CSS | Git |
+| Tailwind CSS  | MongoDB | Strapi  | Wordpress   |
+| MySQL | PostgreSQL | Prisma | Framer |
+| ExpressJS | HTML     | CSS | Git / Github |
 | WebDesign | UI / UX | Figma |  |
 
 
