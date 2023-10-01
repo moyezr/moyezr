@@ -14,7 +14,7 @@
 
 - 📫 How to reach me -> **moyezrabbani.work@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1klePTyYGTeIbKDg6cdZ2bo_pr2obDNRs/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1kkUkQmIIXHAvz5eetx59s4D71lzMnrCY/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm a Nerd Lifting Weights**
 
