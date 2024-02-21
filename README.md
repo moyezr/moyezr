@@ -4,17 +4,17 @@
 <h4 align="center">🧑‍💻 I create full stack web applications with mouth-watering designs and seamless ux websites🧑‍💻.</h4>
 
 ---
-- 🤝 I’m looking for  opportunities as a **Freelance Developer**
+- 🤝 I’m looking for  opportunities as a **Frontend Engineer**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🌱 I’m currently upskilling myself as a **Fullstack Development** and learning **Artificial Intelligence** 🤖
+- 🌱 I’m currently upskilling myself as a **Fullstack Developer** and learning **Artificial Intelligence** 🤖
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website-orpin-zeta.vercel.app/](https://portfolio-website-orpin-zeta.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://moyezrabbani.dev/))
 
 - 📫 How to reach me -> **moyezrabbani.work@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1kkUkQmIIXHAvz5eetx59s4D71lzMnrCY/view?usp=drive_link)
+- 📄 [My Resume](https://drive.google.com/file/d/1TQ-NowyvAcwRs95TpDNiPgdt4p6gREUj/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Nerd Lifting Weights**
 
