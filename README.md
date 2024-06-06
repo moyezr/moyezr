@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moyez Rabbani</h1>
-<h3 align="center">A FullStack Developer | Content Creator in Web Development | AI</h3>
+<h3 align="center">A language agnostic Software Engineering | AI Enthusiast </h3>
 
 <h4 align="center">🧑‍💻 I create full stack web applications with mouth-watering designs and seamless ux websites🧑‍💻.</h4>
 
