@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently upskilling myself as a **Fullstack Developer** and learning **Artificial Intelligence** 🤖
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://moyezrabbani.dev/))
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://moyezrabbani.dev/)
 
 - 📫 How to reach me -> **moyezrabbani.work@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1TQ-NowyvAcwRs95TpDNiPgdt4p6gREUj/view?usp=sharing)
+- 📄 [My Resume](https://moyezrabbani.dev/resume.pdf)
 
 - ⚡ Fun fact **I'm a Nerd Lifting Weights**
 
@@ -27,14 +27,15 @@
 <a href="https://linkedin.com/in/moyezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moyezr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<br />
 
-| React  | NextJS      | Typescript  | Javascript |
-|----------|--------------|------------|------------|
-| Tailwind CSS  | MongoDB | Strapi  | Wordpress   |
-| MySQL | PostgreSQL | Prisma | Framer |
-| ExpressJS | HTML     | CSS | Git / Github |
-| WebDesign | UI / UX | Figma |  |
+<h3 align="left">Technologies I've worked with:</h3>
+
+- **Languages:** Javascript, Typescript, Java, Python, HTML, CSS, SQL
+- **Tools & Technologies:** React, Next.js, GraphQL, REST, Figma, NodeJS, ExpressJS, Tailwind, Docker, Postman, Git,
+Prometheus, Grafana, WebSockets, Kafka, Kubernetes.
+- **Databases:** PostgresSQL, MySQL, MongoDB, Redis
+- **Libraries & Frameworks:** Redux, Zustand, Auth.js, Shadcn, Tanstack Query, Framer, Supabase, Github, Prisma, Socket.io.
 
 
 <h5 align="center"> Thanks for going through this ❤️! Have a good day 😇</h5>
