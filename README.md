@@ -4,7 +4,7 @@
 <h4 align="center">🧑‍💻 I create full stack web applications with mouth-watering designs and seamless ux websites🧑‍💻.</h4>
 
 ---
-- 🤝 I’m looking for  opportunities as a **Frontend Engineer**
+- 🤝 I’m looking for  opportunities as a **Software Engineer**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
