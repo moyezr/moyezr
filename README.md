@@ -1,41 +1,44 @@
-<h1 align="center">Hi 👋, I'm Moyez Rabbani</h1>
-<h3 align="center">A language agnostic Software Engineering | AI Enthusiast </h3>
+<h1 align="center">Moyez Rabbani</h1>
+<h3 align="center">Lead Software Engineer — AI agents, voice pipelines, RAG systems</h3>
 
-<h4 align="center">🧑‍💻 I create full stack web applications with mouth-watering designs and seamless ux websites🧑‍💻.</h4>
-
----
-- 🤝 I’m looking for  opportunities as a **Software Engineer**
-
-- 👯 I’m looking to collaborate on **Web Development Projects**
-
-- 🌱 I’m currently upskilling myself as a **Fullstack Developer** and learning **Artificial Intelligence** 🤖
-
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://moyezrabbani.dev/)
-
-- 📫 How to reach me -> **moyezrabbani.work@gmail.com**
-
-- 📄 [My Resume](https://moyezrabbani.dev/resume.pdf)
-
-- ⚡ Fun fact **I'm a Nerd Lifting Weights**
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/moyezrabbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moyezrabbani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moyezr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moyezr" height="30" width="40" /></a>
+<p align="center">
+I build things that talk to real customers and don't fall over. Most recently: a voice AI agent answering 200+ inbound calls a day for home-service businesses, and a caregiving platform that's placed 1,000+ medication-reminder calls a month at a 96% delivery rate.
 </p>
 
-<br />
+---
 
-<h3 align="left">Technologies I've worked with:</h3>
+### What I'm doing now
 
-- **Languages:** Javascript, Typescript, Java, Python, HTML, CSS, SQL
-- **Tools & Technologies:** React, Next.js, GraphQL, REST, Figma, NodeJS, ExpressJS, Tailwind, Docker, Postman, Git,
-Prometheus, Grafana, WebSockets, Kafka, Kubernetes.
-- **Databases:** PostgresSQL, MySQL, MongoDB, Redis
-- **Libraries & Frameworks:** Redux, Zustand, Auth.js, Shadcn, Tanstack Query, Framer, Supabase, Github, Prisma, Socket.io.
+- Building **OneSpec** — a self-hosted voice AI agent (LiveKit + Telnyx + LLM inference) running sub-300ms speech-to-speech latency in production, end to end: call orchestration, lead qualification, appointment booking, fallback handling.
+- Running **Nemo Cares** — outbound medication reminder calls at sub-500ms pipeline latency, with voicemail detection and transcript analysis built in.
+- Shipping RAG chatbots for municipal and enterprise clients (Azure AI Search + Document Intelligence), including the document ingestion pipelines underneath them.
+- Open to **Software Engineer / AI Engineer** roles where I can own a problem end to end, not just a ticket queue.
 
+### How I work
 
-<h5 align="center"> Thanks for going through this ❤️! Have a good day 😇</h5>
+I'd rather ship something that works and fix it in production than spend a week designing it. I read the docs, build the smallest version that proves the idea, and iterate from real usage — that's how OneSpec went from a project-management SaaS pivot to a production voice agent handling daily call volume. I'm comfortable being the only engineer in the room with a customer, which is mostly true at a 2-person engineering team — discovery calls, demos, scoping, then going and building it.
+
+A few numbers instead of adjectives:
+
+| | |
+|---|---|
+| Voice response latency | sub-300ms (inbound), sub-500ms (outbound) |
+| Call delivery rate | 96% across 50+ active care recipients |
+| Manual QA effort cut | ~70%, via a browser agent for Power Apps testing |
+| Tools consolidated into one CRM | 3 → 1, saving ~20 hrs/week and ~$4,800/yr |
+| Reddit launch | 500K+ impressions in 16 hours |
+
+### Stack
+
+**AI/LLM** — RAG, agent orchestration, prompt engineering, tool calling, embeddings, document ingestion
+**Voice** — LiveKit, Telnyx, STT/TTS pipelines, telephony automation
+**Backend** — Node.js, TypeScript, Python, Express, BullMQ, Redis, Docker, microservices
+**Data** — PostgreSQL, MongoDB, Azure AI Search, Prisma
+**Frontend** — React, Next.js, Tailwind, Shadcn
+**Infra** — Azure Functions, Event Grid, Prometheus, Grafana, Loki, Kubernetes
+
+### Elsewhere
+
+[Portfolio](https://moyezrabbani.dev) · [Resume](https://moyezrabbani.dev/resume.pdf) · [LinkedIn](https://linkedin.com/in/moyezr) · moyezrabbani.work@gmail.com
+
+<sub>Lifts weights. Reads docs for fun. Will argue about why your retrieval pipeline is slow.</sub>
