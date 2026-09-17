@@ -1,7 +1,7 @@
 <h1 align="center">Moyez Rabbani</h1>
 
 <p align="center">
-  Software engineer building reliable systems and AI agents.
+  Full Stack AI Engineer at ub realty inc, building reliable systems and AI agents.
 </p>
 
 I write and design production software end to end—from APIs and data models to distributed workflows, retrieval systems, and real-time AI agents.
