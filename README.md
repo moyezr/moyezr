@@ -1,6 +1,6 @@
 # Moyez Rabbani
 
-Full Stack AI Engineer at **Deol Technologies (UB Realty)**, based in Kolkata.
+Full Stack AI Engineer at **UB Realty**, based in Kolkata.
 
 I build web applications and AI voice agents. My work spans the interface, backend, and infrastructure.
 
