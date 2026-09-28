@@ -14,4 +14,4 @@ At FluxxForward, I built voice agents, document-based AI assistants, and busines
 
 `Python` · `TypeScript` · `FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `LiveKit` · `Docker` · `AWS`
 
-[Portfolio](https://www.moyezrabbani.dev) · [LinkedIn](https://www.linkedin.com/in/moyezr/) · [Email](mailto:moyezrabbani.work@gmail.com)
+[Portfolio](https://www.moyezrabbani.dev) · [Resume](https://drive.google.com/file/d/1RTkmvuE_0GAYW-ASVeHO1Oc0EVFMf8y_/view) · [LinkedIn](https://www.linkedin.com/in/moyezr/) · [Email](mailto:moyezrabbani.work@gmail.com)
