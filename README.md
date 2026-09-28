@@ -1,22 +1,17 @@
-<h1 align="center">Moyez Rabbani</h1>
+# Moyez Rabbani
 
-<p align="center">
-  Full Stack AI Engineer at ub realty inc, building reliable systems and AI agents.
-</p>
+Full Stack AI Engineer at **Deol Technologies (UB Realty)**, based in Kolkata.
 
-I write and design production software end to end—from APIs and data models to distributed workflows, retrieval systems, and real-time AI agents.
+I build web applications and AI voice agents. My work spans the interface, backend, and infrastructure.
 
-### What I build
+Recently, I've been:
 
-- **AI agents** — voice, RAG, tool use, orchestration, guardrails, and evaluation
-- **Architecture & system design** — service boundaries, queues, caching, data pipelines, and observability
-- **Products that run in production** — including a voice agent handling 200+ calls/day with sub-300ms response latency
+- Moving a voice platform from a hosted service to LiveKit.
+- Building encrypted call recording storage with recovery for interrupted uploads.
+- Fixing simultaneous call updates and speeding up backend tests.
 
-`TypeScript` · `Python` · `Node.js` · `React` · `PostgreSQL` · `Redis` · `Docker` · `Azure`
+At FluxxForward, I built voice agents, document-based AI assistants, and business software. I also build side projects, including [Flint](https://github.com/moyezr/flint), a local voice dictation app for macOS.
 
-<p align="center">
-  <a href="https://moyezrabbani.dev">Portfolio</a> ·
-  <a href="https://drive.google.com/file/d/1RTkmvuE_0GAYW-ASVeHO1Oc0EVFMf8y_/view">Résumé</a> ·
-  <a href="https://linkedin.com/in/moyezr">LinkedIn</a> ·
-  <a href="mailto:moyezrabbani.work@gmail.com">Email</a>
-</p>
+`Python` · `TypeScript` · `FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `LiveKit` · `Docker` · `AWS`
+
+[Portfolio](https://www.moyezrabbani.dev) · [LinkedIn](https://www.linkedin.com/in/moyezr/) · [Email](mailto:moyezrabbani.work@gmail.com)
